@@ -4,7 +4,6 @@
   "constants": "constants-browserify",
   "crypto": "crypto-browserify",
   "dns": "dns.js",
-  "net": "react-native-tcp",
   "domain": "domain-browser",
   "http": "stream-http",
   "https": "https-browserify",
