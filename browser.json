@@ -17,7 +17,6 @@
   "_stream_writable": "readable-stream/writable",
   "_stream_duplex": "readable-stream/duplex",
   "_stream_passthrough": "readable-stream/passthrough",
-  "dgram": "react-native-udp",
   "stream": "stream-browserify",
   "timers": "timers-browserify",
   "tty": "tty-browserify",
